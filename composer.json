@@ -1,0 +1,14 @@
+{
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        }
+    ],
+    "require": {
+		"google/apiclient": "^2.0",
+        "alek13/slack": "^1.10",
+        "maknz/slack": "^1.7",
+        "longman/telegram-bot": "^0.61.1"
+    }
+}
